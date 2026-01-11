@@ -19,5 +19,8 @@ This project uses Unsupervised and Supervised Machine Learning to identify hidde
 * `notebook/`: Contains the main Jupyter Notebook (`project_final.ipynb`) with full analysis.
 * `requirements.txt`: List of necessary Python libraries.
 
-**Authors:** Theo Maboge, Mardan Kydyrbek
-**Professor:** @malkaguillot
+## 👥 Authors
+* **Mardan Kydyrbek** - [GitHub Profile](https://github.com/MardanKydybek)
+* **Theo Maboge** - [GitHub Profile](https://github.com/Theomab22)
+
+**Instructor:** [@malkaguillot](https://github.com/malkaguillot)
