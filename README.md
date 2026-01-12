@@ -16,8 +16,11 @@ This project uses Unsupervised and Supervised Machine Learning to identify hidde
 * The high accuracy confirms that the market clusters are statistically significant and non-random.
 
 ## Structure
-* `notebook/`: Contains the main Jupyter Notebook (`project_final.ipynb`) with full analysis.
-* `requirements.txt`: List of necessary Python libraries.
+* 📁 **`notebook/`**: Contains the core Jupyter Notebook (`project_final.ipynb`) with data processing, PCA, clustering, and model validation.
+* 📁 **`slides/`**: Project presentation (PDF) summarizing the methodology and financial insights for the final defense.
+* 📄 **`requirements.txt`**: List of all Python libraries required to reproduce the analysis.
+* 📄 **`.gitignore`**: Configuration to keep the repository clean from temporary system files.
+* 📄 **`LICENSE`**: MIT License.
 
 ## 👥 Authors
 * **Mardan Kydyrbek** - [GitHub Profile](https://github.com/MardanKydybek)
